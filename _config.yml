@@ -1,0 +1,37 @@
+color:
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.7833296936005354
+  lightness: 0.5156191105488688
+  saturation: 0.6591369907837361
+  rhythmicContrast: 0.3262745027896017
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Lovable Paws
+layout_spectrum: 0.8125712869223207
+typography_spectrum: 0.5901074786670506
+content: []
+title: Lovable Paws Rescue
+description: Lovable Paws Rescue is a 501 c3 non-profit animal rescue
+purpose:
+  - type: contact
+    url: 'tel:8434221549'
+    label: Call 843-422-1549
+  - type: contact
+    url: 'mailto:lovablepawssc@gmail.com'
+    label: Email
+github: true
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/86d05484-75f7-4e24-b00f-c2651156d667.jpg
+url: 'https://thegrid.ai/lpr'
